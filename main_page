@@ -82,9 +82,9 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Warszawa</a></li>
+      <li><a href="repozytorium_lab2/page1">London</a></li>
+      <li><a href="repozytorium_lab2/page2">Paris</a></li>
+      <li><a href="repozytorium_lab2/page3">Warszawa</a></li>
     </ul>
   </nav>
   
